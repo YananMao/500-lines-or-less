@@ -6,7 +6,7 @@ Dethe是一个极客老爸，也是一个具有审美的程序员和导师，他
 
 作为对比，一个优秀的块编程语言可以完全消除语法错误。你写的程序有可能仍然没有很好地实现功能，但它绝对不会有语法错误，因为块编程是完全不会允许这样的情况发生的。块编程语言更容易被发现，你可以直接就在块的列表里看到所有的结构和库。并且，块可以在不改变编程语言含义的情况下被本地化为所有的人类语言。
 
-![1.1](D:\project\500 lines or less\pic\1.1.png)
+![1.1](D:\maoyanan\500-lines-or-less-\pic\1.1.png)
 
 基于块的编程语言由来已久，比较突出的代表有[Lego Mindstorms](https://www.lego.com/en-us/mindstorms/),[Alice 3D](http://www.alice.org/),[StarLogo](https://education.mit.edu/projects/starlogo-tng),特别是[Scratch](https://scratch.mit.edu/)。同时网上也有一些块编程语言的开发工具，比如[Blockly](https://developers.google.com/blockly/)，[AppInventor](http://appinventor.mit.edu/explore/)，[Tynker](https://www.tynker.com/)和[其他](https://en.wikipedia.org/wiki/Visual_programming_language)。
 
@@ -26,7 +26,10 @@ python里面的海龟绘图的使用，还要归因于Logo编程语言，因为L
 
 ## 脚本的本质
 
-一个块编程的脚本，就像所有的不管是基于块的或者基于文本的编程语言，都是给计算机去执行的操作序列
+一个块编程的脚本，就像所有的不管是基于块的或者基于文本的编程语言，都是给计算机去执行的操作序列。在块编码中，脚本由嵌套使用的html元素块组成，并且每个块上有各自定义的JavaScript函数。一个块可以包含并且控制其他的块，还可以包含传递给JavaScript函数的数字型参数。
+
+在基于文本的大多数编程语言里，一个脚本会经历下面几个阶段：
 
 
 
+l
